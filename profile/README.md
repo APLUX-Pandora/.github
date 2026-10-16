@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/APLUX-Pandora/.github/main/assets/pandora-logo.png" alt="Pandora" width="112" />
+  <img src="https://raw.githubusercontent.com/APLUX-Pandora/.github/main/assets/pandora-logo-transparent.png" alt="Pandora" width="112" />
 </p>
 
 # Pandora · On-device AI Box
