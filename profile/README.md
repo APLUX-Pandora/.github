@@ -14,7 +14,7 @@ From a working demo to your application, Pandora provides a practical starting p
 
 - [Pandora website](https://pandora.aidlux.com) — discover application scenarios and integration-ready solutions.
 - [GitHub](https://github.com/APLUX-Pandora) — demo projects and integration resources.
-- [Hugging Face](https://huggingface.co/APLUX-Pandora) — model resources for on-device deployment.
+- [Hugging Face](https://huggingface.co/APLUX-GenAI4) — model resources for on-device deployment.
 - [ModelFarm](https://aiot.aidlux.com/en/models) — explore models adapted for edge hardware.
 
 Demo and model repositories are currently private. This page introduces Pandora; access to individual resources is managed separately.
